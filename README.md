@@ -3,8 +3,8 @@ Basic R analysis to determine if electricity price trends over decades justify $
 
 Planned outline:
 1. Visual analysis of avg U.S. city electricity monthly prices 1979-2023
-  * impute missing values
-  - time series ggplots
+    * impute missing values
+    * time series ggplots
 3. Compare the lowest avg month and highest avg month
   - time series ggplot of price different
 5. Visual anlsysis of U.S. annual GDP, inflation, population 1979-2023
