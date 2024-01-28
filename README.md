@@ -7,7 +7,7 @@ Planned outline:
     * time series ggplots
 3. Compare the lowest avg month and highest avg month
    * time series ggplot of price different
-5. Visual anlsysis of U.S. annual GDP, inflation, population 1979-2023
+5. Visual analysis of U.S. annual GDP, inflation, population 1979-2023
    * impute missing values
    * time series ggplots
    * analysis of whether national electric price trends trail, match, or exceed national economic growth indicators
